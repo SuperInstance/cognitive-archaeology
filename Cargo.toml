@@ -1,0 +1,9 @@
+[package]
+name = "cognitive-archaeology"
+version = "0.1.0"
+edition = "2021"
+description = "Layered cognitive history with archaeological excavation"
+license = "MIT"
+repository = "https://github.com/SuperInstance/cognitive-archaeology"
+
+[dependencies]
